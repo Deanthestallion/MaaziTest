@@ -1,0 +1,38 @@
+/* Styling for the navigation bar and background */
+body {
+    background-color: #f0f0f0;
+}
+
+#navbar {
+    background-color: black;
+    overflow: hidden;
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 50;
+}
+
+#navbar ul li {
+    float: left;
+    margin-right: 150px;
+}
+
+
+/* Styling for the form */
+#myForm {
+    background-color: #160707;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: #f0f0f0;
+}
+
+#myForm label,
+#myForm input,
+#myForm button {
+    display: block;
+    margin-bottom: 10px;
+}

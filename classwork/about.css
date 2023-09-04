@@ -1,0 +1,9 @@
+body{
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-image: url("istockphoto-1298167375-612x612.jpg");
+    background-size: cover;
+}

@@ -1,0 +1,5 @@
+what does html stands for.
+html stands for hypertext markup language.
+what this the primary purpose of <img>
+image tag is used to add an image in the html.
+you use it by calling it and inserting a src attribute to put the image addreess
